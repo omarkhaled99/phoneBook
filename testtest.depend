@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1545905478 source:e:\c final project\testtest\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	"mainfunctions.h"
+	"auxfunctions.h"
+	"mainfunctions.c"
+	"auxfunctions.c"
+
+1545904729 e:\c final project\testtest\mainfunctions.h
+
+1545844064 e:\c final project\testtest\auxfunctions.h
+
+1545904739 e:\c final project\testtest\mainfunctions.c
+
+1545907181 e:\c final project\testtest\auxfunctions.c
+
+1545905478 source:e:\c final project\phonebook\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	"mainfunctions.h"
+	"auxfunctions.h"
+	"mainfunctions.c"
+	"auxfunctions.c"
+
+1545904729 e:\c final project\phonebook\mainfunctions.h
+
+1545844064 e:\c final project\phonebook\auxfunctions.h
+
+1545904739 e:\c final project\phonebook\mainfunctions.c
+
+1545907181 e:\c final project\phonebook\auxfunctions.c
+
